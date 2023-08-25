@@ -24,3 +24,4 @@ function name(){
 function functionWithParams(params){
     console.log('loggg',params);
 }
+//test
